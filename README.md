@@ -38,3 +38,7 @@ The following sources will be merged in python to create a robust dataset for an
 + [Twitter Human Bots Dataset](https://www.kaggle.com/code/davidmartngutirrez/bots-accounts-eda/data?select=twitter_human_bots_dataset.csv)&mdash; 37438 rows of data collected from the Twitter API.
 
 + [Cresci-2017 Dataset](https://botometer.osome.iu.edu/bot-repository/datasets.html)&mdash; an annotated dataset of real and Bot accounts from the Bot Repository. 
+
+### Data Exploration
+Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we eported the data into a [downloadable csv file](Data/clean_data.csv). 
+
