@@ -28,6 +28,7 @@ Can we predict the rates at with new Bot accounts are created on Twitter by usin
 
 + [Data Sources](#data-sources)
     + [Data Exploration](#data-exploration)
+
 +[Tools](#tools)
 
 ### Project Outline
