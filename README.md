@@ -26,13 +26,13 @@ Can we predict the rates at with new Bot accounts are created on Twitter by usin
 
 ### Index
 
-~~This will be filled out later~~
++ [Data Sources](doc:Readme.md#Data-Scources)
 
 ### Project Outline
 
 ~~We will add a visualized outline later~~
 
-## Description of Data Sources
+## Data Sources
 The following sources will be merged in python to create a robust dataset for analysis:
 
 + [Twitter Human Bots Dataset](https://www.kaggle.com/code/davidmartngutirrez/bots-accounts-eda/data?select=twitter_human_bots_dataset.csv)&mdash; 37438 rows of data collected from the Twitter API.
@@ -41,4 +41,25 @@ The following sources will be merged in python to create a robust dataset for an
 
 ### Data Exploration
 Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we eported the data into a [downloadable csv file](Data/clean_data.csv). 
+
+## Tools
+We used the following tools throughout our project:
+
+**Data Transformation**
+
++ Python&mdash; Pandas, Jupyter Notebook 
+
+**Database**
+
++ SQL
+
++ Microsoft Excel
+
+**Machine Learning Model**
+
++ Python&mdash; Pandas, PySpark, Jupyter Notebook
+
+**Dashboard**
+
++ Tableau
 
