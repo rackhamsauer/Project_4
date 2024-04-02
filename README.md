@@ -3,10 +3,15 @@
 ## Team Introduction
 
 This project would not exist if not for the tireless work of the following team members:
+
 **Judith Cuellar**
+
 **Juliet Messier**
+
 **Micheal McCloskey**
+
 **Seren Frazin**
+
 **Stacie Sauer-Rackham**
 
 ## Project Overview 
