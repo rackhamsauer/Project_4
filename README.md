@@ -43,7 +43,7 @@ The following sources will be merged in python to create a robust dataset for an
 + [Cresci-2017 Dataset](https://botometer.osome.iu.edu/bot-repository/datasets.html)&mdash; an annotated dataset of real and Bot accounts from the Bot Repository. 
 
 ### Data Exploration
-Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we eported the data into a [downloadable csv file](Data/clean_data.csv). 
+Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we exported the data into a [downloadable csv file](Data/clean_data.csv). 
 
 ## Tools
 We used the following tools throughout our project:
