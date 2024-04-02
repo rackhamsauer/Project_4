@@ -26,7 +26,7 @@ Can we predict the rates at with new Bot accounts are created on Twitter by usin
 
 ### Index
 
-+ [Data Sources](doc:Readme.md#Data-Scources)
++ [Data Sources](#data-scources)
 
 ### Project Outline
 
