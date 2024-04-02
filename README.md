@@ -20,3 +20,21 @@ We have developed a machine learning model that predicts the frequency of **Auto
 Bots undermine the authenticity of interactions on social media platforms. Bots can disseminate misinformation, manipulate trends, and push malicious links&mdash; all of which is harmful to public discourse. 
 
 With the aid of our model, we can battle back the threat of bots on Twitter. 
+
+### Project Question
+Can we predict the rates at with new Bot accounts are created on Twitter by using a machine learning model?
+
+### Index
+
+~~This will be filled out later~~
+
+### Project Outline
+
+~~We will add a visualized outline later~~
+
+## Description of Data Sources
+The following sources will be merged in python to create a robust dataset for analysis:
+
++ [Twitter Human Bots Dataset](https://www.kaggle.com/code/davidmartngutirrez/bots-accounts-eda/data?select=twitter_human_bots_dataset.csv)&mdash; 37438 rows of data collected from the Twitter API.
+
++ [Cresci-2017 Dataset](https://botometer.osome.iu.edu/bot-repository/datasets.html)&mdash; an annotated dataset of real and Bot accounts from the Bot Repository. 
