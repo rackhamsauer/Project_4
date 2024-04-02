@@ -22,17 +22,20 @@ Bots undermine the authenticity of interactions on social media platforms. Bots 
 With the aid of our model, we can battle back the threat of bots on Twitter. 
 
 ### Project Question
-Can we predict the rates at with new Bot accounts are created on Twitter by using a machine learning model?
+Can we predict the rates at which new Bot accounts are created on Twitter by using a machine learning model?
 
 ### Index
 
-~~This will be filled out later~~
++ [Data Sources](#data-sources)
+    + [Data Exploration](#data-exploration)
+
++ [Tools](#tools)
 
 ### Project Outline
 
 ~~We will add a visualized outline later~~
 
-## Description of Data Sources
+## Data Sources
 The following sources will be merged in python to create a robust dataset for analysis:
 
 + [Twitter Human Bots Dataset](https://www.kaggle.com/code/davidmartngutirrez/bots-accounts-eda/data?select=twitter_human_bots_dataset.csv)&mdash; 37438 rows of data collected from the Twitter API.
@@ -40,5 +43,26 @@ The following sources will be merged in python to create a robust dataset for an
 + [Cresci-2017 Dataset](https://botometer.osome.iu.edu/bot-repository/datasets.html)&mdash; an annotated dataset of real and Bot accounts from the Bot Repository. 
 
 ### Data Exploration
-Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we eported the data into a [downloadable csv file](Data/clean_data.csv). 
+Our team cleaned these datasets by dropping irrelevant columns, clarifying column names, dropping null values, and converting values to numeric booleans. Once done, we exported the data into a [downloadable csv file](Data/clean_data.csv). 
+
+## Tools
+We used the following tools throughout our project:
+
+**Data Transformation**
+
++ Python&mdash; Pandas, Jupyter Notebook 
+
+**Database**
+
++ SQL
+
++ Microsoft Excel
+
+**Machine Learning Model**
+
++ Python&mdash; Pandas, PySpark, Jupyter Notebook
+
+**Dashboard**
+
++ Tableau
 
