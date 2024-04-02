@@ -22,7 +22,7 @@ Bots undermine the authenticity of interactions on social media platforms. Bots 
 With the aid of our model, we can battle back the threat of bots on Twitter. 
 
 ### Project Question
-Can we predict the rates at with new Bot accounts are created on Twitter by using a machine learning model?
+Can we predict the rates at which new Bot accounts are created on Twitter by using a machine learning model?
 
 ### Index
 
