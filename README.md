@@ -21,6 +21,11 @@ Bots undermine the authenticity of interactions on social media platforms. Bots 
 
 With the aid of our model, we can battle back the threat of bots on Twitter. 
 
+For more information about Bots, please refer to the following sources:
++  [Twitter Bot&mdash; Wikipedia](https://en.wikipedia.org/wiki/Twitter_bot#:~:text=An%20X%20bot%2C%20formerly%20known,or%20direct%20messaging%20other%20accounts.)
++  [What are Twitter bots, and why is Elon Musk obsessed with them?](https://www.cbsnews.com/news/elon-musk-twitter-bots-cbs-explains/)
+
+
 ### Project Question
 Can we predict the rates at which new Bot accounts are created on Twitter by using a machine learning model?
 
