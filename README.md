@@ -28,7 +28,6 @@ Can we predict the rates at which new Bot accounts are created on Twitter by usi
 
 + [Data Sources](#data-sources)
     + [Data Exploration](#data-exploration)
-
 + [Tools](#tools)
 
 ### Project Outline
