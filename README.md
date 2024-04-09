@@ -34,6 +34,10 @@ Can we predict the rates at which new Bot accounts are created on Twitter by usi
 + [Data Sources](#data-sources)
     + [Data Exploration](#data-exploration)
 + [Tools](#tools)
+    + [Data Transformation Tools](#data-transformation-tools)
+    + [Database Tools](#database-tools)
+    + [Machine Learning Tools](#machine-learning-tools)
+    + [Dashboard Tools](#dashboard-tools)
 + [Machine Learning Model](#machine-learning-model)
 + [Database](#database)
 + [Tableau Dashboard](#tableau-dashboard)
@@ -56,21 +60,21 @@ Our team cleaned these datasets by dropping irrelevant columns, clarifying colum
 ## Tools
 We used the following tools throughout our project:
 
-**Data Transformation**
+### Data Transformation Tools
 
 + Python&mdash; Pandas, Jupyter Notebook 
 
-**Database**
+### Database Tools
 
 + SQL
 
 + Microsoft Excel
 
-**Machine Learning Model**
+### Machine Learning Tools
 
 + Python&mdash; Pandas, PySpark, Jupyter Notebook, Pathlib, Sklearn, Matplotlib, Tensorflow, Keras, Numpy, Google Colab
 
-**Dashboard**
+### Dashboard Tools
 
 + Tableau
 
