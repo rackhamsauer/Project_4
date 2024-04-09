@@ -110,7 +110,7 @@ Our Tensor Flow model was able to identify bots with 79% accuracy by its final t
 ### Logistic Regression
 Our Logistic Regression model identified bots with 71.5% accuracy. Below is information regarding Logistic Regression precision, recall, f1-score, and support:
 
-![screenshot of logistic Regression performance]()
+![screenshot of logistic Regression performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Logistic%20Regression%20Screenshot.png)
 
 ### KNN 
 Our KNN model identified bots with 70.6% accuracy. Below is information regarding KNN precision, recall, f1-score, and support:
