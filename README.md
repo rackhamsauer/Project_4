@@ -1,4 +1,4 @@
-# Automated Account (Bot) Prediction
+# Automated Account (Bot) Identifier
 
 ## Team Introduction
 
@@ -15,7 +15,7 @@ This project would not exist if not for the tireless work of the following team 
 **Stacie Sauer-Rackham**
 
 ## Project Overview 
-We have developed a machine learning model that predicts the frequency of **Automated Account (Bot)** creation on Twitter. 
+We have developed a machine learning model that identifies the presence of **Automated Account (Bot)** on Twitter. 
 
 Bots undermine the authenticity of interactions on social media platforms. Bots can disseminate misinformation, manipulate trends, and push malicious links&mdash; all of which is harmful to public discourse. 
 
@@ -27,7 +27,7 @@ For more information about Bots, please refer to the following sources:
 
 
 ### Project Question
-Can we predict the rates at which new Bot accounts are created on Twitter by using a machine learning model?
+Can we accurately identify if a twitter account is a Bot account?
 
 ### Index
 
@@ -81,8 +81,8 @@ We used the following tools throughout our project:
 ## Machine Learning Model
 
 ## Database
-
+We imported our data into a PostgreSQL server. Below is our schema illustrating how our database is structured:
 ## Tableau Dashboard
-We have used Tableau to create an interactive dashboard that allows users to visualize bot creation statistics between 2006 and 2019. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
+We have used Tableau to create an interactive dashboard that allows users to visualize the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
 
 ## Presentation
