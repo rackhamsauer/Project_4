@@ -79,5 +79,6 @@ We used the following tools throughout our project:
 ## Database
 
 ## Tableau Dashboard
+We have used Tableau to create an interactive dashboard that allows users to visualize bot creation statistics between 2006 and 2019. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
 
 ## Presentation
