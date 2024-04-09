@@ -101,6 +101,8 @@ Our Random Forest model performed the best out of all our models. It was able to
 ### GBM 
 
 ### Tensor Flow
+Our Tensor Flow model was able to identify bots with 79% accuracy by its final trial. Below is graph detailing the results of each of our 5 Tensor Flow Trials:
+![screenshot of Tensor Flow Trials]() 
 
 ### Logistic Regression
 
