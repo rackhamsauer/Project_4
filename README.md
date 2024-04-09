@@ -44,6 +44,8 @@ Can we accurately identify if a twitter account is a Bot account?
     + [Tensor Flow](#tensor-flow)
     + [Logistic Regression](#logistic-regression)
     + [KNN](#knn)
+    + [Conclusions](#conclusions)
++ [Statistical Analysis](#statistical-analysis)
 + [Database](#database)
 + [Tableau Dashboard](#tableau-dashboard)
 + [Presentation](#presentation)
@@ -117,11 +119,16 @@ Our KNN model identified bots with 70.6% accuracy. Below is information regardin
 
 ![screenshot of KNN performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/KNN%20Performance.png)
 
+### Conclusions
+Based on the performance of the various models, our Random Forest model should be used to identify bot activity on Twitter. It was our most accurate model and detailed which factors could be examined to identify bots. Further analysis of these factors should be done to help us better understand the data. 
+
+## Statistical Analysis
+
 ## Database
 We imported our data into a PostgreSQL server. Below is our ERD illustrating how our database is structured:
 ![Image of ERD](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/DESCRIPTION_ERD.png)
 
 ## Tableau Dashboard
-We have used Tableau to create an interactive dashboard that allows users to visualize the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
+We have used Tableau to create an interactive dashboard that allows users to examine the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
 
 ## Presentation
