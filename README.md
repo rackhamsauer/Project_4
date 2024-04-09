@@ -91,6 +91,9 @@ To create the most accurate model for identifying Bot accounts, our team tested 
 + Logistic Regression 
 + KNN 
 
+All of our models exceeded 70% accuracy in identifying bot activity. The following chart shows how well each model performed:
+![screenshot of model performance]()
+
 ### Random Forest
 Our Random Forest model performed the best out of all our models. It was able to identify bots with 88% accuracy. Our Random Forest model found the following factors to be the most influential in identifying bots:
 ![screenshot of Random Forest performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Random%20Forest%20Screenshot.png)
