@@ -107,7 +107,9 @@ Our Random Forest model performed the best out of all our models. It was able to
 ### KNN 
 
 ## Database
-We imported our data into a PostgreSQL server. Below is our schema illustrating how our database is structured:
+We imported our data into a PostgreSQL server. Below is our ERD illustrating how our database is structured:
+![Image of ERD](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/DESCRIPTION_ERD.png)
+
 ## Tableau Dashboard
 We have used Tableau to create an interactive dashboard that allows users to visualize the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
 
