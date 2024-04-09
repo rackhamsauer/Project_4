@@ -99,6 +99,9 @@ Our Random Forest model performed the best out of all our models. It was able to
 ![screenshot of Random Forest performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Random%20Forest%20Screenshot.png)
 
 ### GBM 
+Our GBM model identified bots with 87% accuracy. Below is information regarding GBM Model precision, recall, f1-score, and support:
+
+![screenshot of GBM performance]()
 
 ### Tensor Flow
 Our Tensor Flow model was able to identify bots with 79% accuracy by its final trial. Below is graph detailing the results of each of our 5 Tensor Flow Trials:
