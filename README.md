@@ -39,6 +39,11 @@ Can we accurately identify if a twitter account is a Bot account?
     + [Machine Learning Tools](#machine-learning-tools)
     + [Dashboard Tools](#dashboard-tools)
 + [Machine Learning Model](#machine-learning-model)
+    + [Random Forest](#random-forest)
+    + [GBM](#gbm)
+    + [Tensor Flow](#tensor-flow)
+    + [Logistic Regression](#logistic-regression)
+    + [KNN](#knn)
 + [Database](#database)
 + [Tableau Dashboard](#tableau-dashboard)
 + [Presentation](#presentation)
@@ -79,6 +84,22 @@ We used the following tools throughout our project:
 + Tableau
 
 ## Machine Learning Model
+To create the most accurate model for identifying Bot accounts, our team tested the following five Machine Learning Models:
++ Random Forest
++ GBM
++ Tensor Flow
++ Logistic Regression 
++ KNN 
+
+### Random Forest
+
+### GBM 
+
+### Tensor Flow
+
+### Logistic Regression
+
+### KNN 
 
 ## Database
 We imported our data into a PostgreSQL server. Below is our schema illustrating how our database is structured:
