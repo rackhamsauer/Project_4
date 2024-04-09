@@ -1,4 +1,4 @@
-# Automated Account (Bot) Detection 
+# Automated Account (Bot) Prediction
 
 ## Team Introduction
 
@@ -34,6 +34,10 @@ Can we predict the rates at which new Bot accounts are created on Twitter by usi
 + [Data Sources](#data-sources)
     + [Data Exploration](#data-exploration)
 + [Tools](#tools)
++ [Machine Learning Model](#machine-learning-model)
++ [Database](#database)
++ [Tableau Dashboard](#tableau-dashboard)
++ [Presentation](#presentation)
 
 ### Project Outline
 
@@ -64,9 +68,16 @@ We used the following tools throughout our project:
 
 **Machine Learning Model**
 
-+ Python&mdash; Pandas, PySpark, Jupyter Notebook
++ Python&mdash; Pandas, PySpark, Jupyter Notebook, Pathlib, Sklearn, Matplotlib, Tensorflow, Keras, Numpy, Google Colab
 
 **Dashboard**
 
 + Tableau
 
+## Machine Learning Model
+
+## Database
+
+## Tableau Dashboard
+
+## Presentation
