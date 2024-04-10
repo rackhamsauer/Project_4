@@ -52,7 +52,7 @@ Can we accurately identify if a twitter account is a Bot account?
 
 ### Project Outline
 
-~~We will add a visualized outline later~~
+![Outline of project highlights](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Project%204%20Outline.png)
 
 ## Data Sources
 The following sources will be merged in python to create a robust dataset for analysis:
