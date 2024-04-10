@@ -124,6 +124,20 @@ Based on the performance of the various models, our Random Forest model should b
 
 ## Statistical Analysis
 
+After seeing the results of our Random Forest Model, we analyzed follower activity, geolocation, median followers, and verified accounts to better understand how bots differ than human users. Bellow are four charts detailing the results of our analysis:
+
+### Follower Activity Analysis
+![Chart of follower activity](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Follower%20Activity.png)
+
+### Geo Location Analysis
+![Chart of Geo Location](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Geo%20Location%20Analysis.png)
+
+### Median Follower Analysis 
+![Chart of Median Followers](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Median%20Followers%20Dashboard.png)
+
+### Verified Account Analysis
+![Chart of Verified Accounts](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Verified%20Accounts%20.png)
+
 ## Database
 We imported our data into a PostgreSQL server. Below is our ERD illustrating how our database is structured:
 ![Image of ERD](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/DESCRIPTION_ERD.png)
