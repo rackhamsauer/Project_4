@@ -56,7 +56,7 @@ Can we accurately identify if a twitter account is a Bot account?
 
 ### Project Outline
 
-![Outline of project highlights](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Project%204%20Outline.png)
+![Outline of project highlights](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Project%204%20Outline.png)
 
 ## Data Sources
 The following sources will be merged in python to create a robust dataset for analysis:
@@ -98,30 +98,30 @@ To create the most accurate model for identifying Bot accounts, our team tested 
 + KNN 
 
 All of our models exceeded 70% accuracy in identifying bot activity. The following chart shows how well each model performed:
-![screenshot of model performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Machine%20Learning%20Model%20Performance.png)
+![screenshot of model performance](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Machine%20Learning%20Model%20Performance.png)
 
 ### Random Forest
 Our Random Forest model performed the best out of all our models. It was able to identify bots with 88% accuracy. Our Random Forest model found the following factors to be the most influential in identifying bots:
-![screenshot of Random Forest performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Random%20Forest%20Screenshot.png)
+![screenshot of Random Forest performance](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Random%20Forest%20Screenshot.png)
 
 ### GBM 
 Our GBM model identified bots with 87% accuracy. Below is information regarding GBM Model precision, recall, f1-score, and support:
 
-![screenshot of GBM performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/GBM%20Model%20Performance.png)
+![screenshot of GBM performance](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/GBM%20Model%20Performance.png)
 
 ### Tensor Flow
 Our Tensor Flow model was able to identify bots with 79% accuracy by its final trial. Below is graph detailing the results of each of our 5 Tensor Flow Trials:
-![screenshot of Tensor Flow Trials](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Tensor%20Flow%20Trials.png) 
+![screenshot of Tensor Flow Trials](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Tensor%20Flow%20Trials.png) 
 
 ### Logistic Regression
 Our Logistic Regression model identified bots with 71.5% accuracy. Below is information regarding Logistic Regression precision, recall, f1-score, and support:
 
-![screenshot of logistic Regression performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Logistic%20Regression%20Screenshot.png)
+![screenshot of logistic Regression performance](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Logistic%20Regression%20Screenshot.png)
 
 ### KNN 
 Our KNN model identified bots with 70.6% accuracy. Below is information regarding KNN precision, recall, f1-score, and support:
 
-![screenshot of KNN performance](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/KNN%20Performance.png)
+![screenshot of KNN performance](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/KNN%20Performance.png)
 
 ### Conclusions
 Based on the performance of the various models, our Random Forest model should be used to identify bot activity on Twitter. It was our most accurate model and detailed which factors could be examined to identify bots. Further analysis of these factors should be done to help us better understand the data. 
@@ -131,16 +131,16 @@ Based on the performance of the various models, our Random Forest model should b
 After seeing the results of our Random Forest Model, we analyzed follower activity, geolocation, median followers, and verified accounts to better understand how bots differ than human users. Bellow are four charts detailing the results of our analysis:
 
 ### Follower Activity Analysis
-![Chart of follower activity](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Follower%20Activity.png)
+![Chart of follower activity](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Follower%20Activity.png)
 
 ### Geo Location Analysis
-![Chart of Geo Location](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Geo%20Location%20Analysis.png)
+![Chart of Geo Location](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Geo%20Location%20Analysis.png)
 
 ### Median Follower Analysis 
-![Chart of Median Followers](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Median%20Followers%20Dashboard.png)
+![Chart of Median Followers](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Median%20Followers%20Dashboard.png)
 
 ### Verified Account Analysis
-![Chart of Verified Accounts](https://github.com/rackhamsauer/Project_4/blob/Juliet/Screenshots/Verified%20Accounts%20.png)
+![Chart of Verified Accounts](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/Verified%20Accounts%20.png)
 
 ## Database
 We imported our data into a PostgreSQL server. Below is our ERD illustrating how our database is structured:
@@ -150,4 +150,4 @@ We imported our data into a PostgreSQL server. Below is our ERD illustrating how
 We have used Tableau to create an interactive dashboard that allows users to examine the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/shared/FSZS2GDWZ).
 
 ## Presentation
-A copy of our presentation can be found [here](https://github.com/rackhamsauer/Project_4/blob/Juliet/Bot%20Identification%20Final%20Theme.pptx).
+A copy of our presentation can be found [here](https://github.com/rackhamsauer/Project_4/blob/main/Bot%20Identification%20Final%20Theme.pptx).
