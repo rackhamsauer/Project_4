@@ -147,6 +147,7 @@ We imported our data into a PostgreSQL server. Below is our ERD illustrating how
 ![Image of ERD](https://github.com/rackhamsauer/Project_4/blob/main/Screenshots/DESCRIPTION_ERD.png)
 
 ## Tableau Dashboard
-We have used Tableau to create an interactive dashboard that allows users to examine the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/TwitterBotAnalysis/Story1).
+We have used Tableau to create an interactive dashboard that allows users to examine the key factors our model uses to identify Bots on Twitter. Our full Tableau story can be found [here](https://public.tableau.com/app/profile/micheal.mccloskey/viz/shared/FSZS2GDWZ).
 
 ## Presentation
+A copy of our presentation can be found [here]().
